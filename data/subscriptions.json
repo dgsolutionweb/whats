@@ -1,0 +1,14 @@
+{
+  "5517999754390": {
+    "active": true,
+    "expiresAt": "2026-02-13T05:29:44.321Z",
+    "activatedBy": "payment",
+    "activatedAt": "2025-03-20T10:12:09.590Z"
+  },
+  "5517991008843": {
+    "active": true,
+    "expiresAt": "2025-04-19T10:58:05.034Z",
+    "activatedBy": "payment",
+    "activatedAt": "2025-03-20T10:58:05.034Z"
+  }
+}

@@ -1,0 +1,96 @@
+2025-03-20 04:05:53 -03:00: Erro ao obter informações do vídeo: Error: O arquivo é muito grande (35MB). O limite é 15MB.
+2025-03-20 04:05:53 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:05:53 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:05:53 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:05:53 -03:00: Erro ao processar o vídeo: Error: O arquivo é muito grande (35MB). O limite é 15MB.
+2025-03-20 04:05:53 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:05:53 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:05:53 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:06:42 -03:00: Erro ao obter informações do vídeo: Error: O arquivo é muito grande (23MB). O limite é 15MB.
+2025-03-20 04:06:42 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:06:42 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:06:42 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:06:42 -03:00: Erro ao processar o vídeo: Error: O arquivo é muito grande (23MB). O limite é 15MB.
+2025-03-20 04:06:42 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:06:42 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:06:42 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:09:20 -03:00: Erro ao obter informações do vídeo: Error: O arquivo é muito grande (103MB). O limite é 15MB.
+2025-03-20 04:09:20 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:09:20 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:09:20 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:09:20 -03:00: Erro ao processar o vídeo: Error: O arquivo é muito grande (103MB). O limite é 15MB.
+2025-03-20 04:09:20 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:09:20 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:09:20 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:10:00 -03:00: Erro ao obter informações do vídeo: Error: O arquivo é muito grande (70MB). O limite é 15MB.
+2025-03-20 04:10:00 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:10:00 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:10:00 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:10:00 -03:00: Erro ao processar o vídeo: Error: O arquivo é muito grande (70MB). O limite é 15MB.
+2025-03-20 04:10:00 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 04:10:00 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:10:00 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1268:29)
+2025-03-20 04:10:29 -03:00: ⚠️ ID do pagamento não encontrado na resposta, mas continuando em modo de desenvolvimento...
+2025-03-20 04:10:29 -03:00: Erro específico do Mercado Pago: {}
+2025-03-20 04:10:29 -03:00: Todas as propriedades do erro: []
+2025-03-20 04:10:29 -03:00: Erro ao gerar QR Code PIX: Error: Erro ao processar pagamento no Mercado Pago: Erro desconhecido
+2025-03-20 04:10:29 -03:00:     at generatePixQRCode (/projetos/auto/index.js:642:13)
+2025-03-20 04:10:29 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:10:29 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1001:29)
+2025-03-20 04:10:29 -03:00: Erro ao gerar PIX: Error: Erro ao processar pagamento no Mercado Pago: Erro desconhecido
+2025-03-20 04:10:29 -03:00:     at generatePixQRCode (/projetos/auto/index.js:642:13)
+2025-03-20 04:10:29 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 04:10:29 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1001:29)
+2025-03-20 07:04:55 -03:00: ⚠️ ID do pagamento não encontrado na resposta, mas continuando em modo de desenvolvimento...
+2025-03-20 07:04:55 -03:00: Erro específico do Mercado Pago: {}
+2025-03-20 07:04:55 -03:00: Todas as propriedades do erro: []
+2025-03-20 07:04:55 -03:00: Erro ao gerar QR Code PIX: Error: Erro ao processar pagamento no Mercado Pago: Erro desconhecido
+2025-03-20 07:04:55 -03:00:     at generatePixQRCode (/projetos/auto/index.js:642:13)
+2025-03-20 07:04:55 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 07:04:55 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1001:29)
+2025-03-20 07:04:55 -03:00: Erro ao gerar PIX: Error: Erro ao processar pagamento no Mercado Pago: Erro desconhecido
+2025-03-20 07:04:55 -03:00:     at generatePixQRCode (/projetos/auto/index.js:642:13)
+2025-03-20 07:04:55 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 07:04:55 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1001:29)
+2025-03-20 07:21:42 -03:00: Erro ao obter informações do vídeo: Error: O arquivo é muito grande (74MB). O limite é 15MB.
+2025-03-20 07:21:42 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 07:21:42 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 07:21:42 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1323:29)
+2025-03-20 07:21:42 -03:00: Erro ao processar o vídeo: Error: O arquivo é muito grande (74MB). O limite é 15MB.
+2025-03-20 07:21:42 -03:00:     at getVideoInfo (/projetos/auto/index.js:363:13)
+2025-03-20 07:21:42 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-20 07:21:42 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1323:29)
+2025-03-20 08:19:02 -03:00: Erro geral ao processar a mensagem: ReferenceError: formattedNumber is not defined
+2025-03-20 08:19:02 -03:00:     at /projetos/auto/index.js:543:24
+2025-03-20 08:19:02 -03:00:     at Array.map (<anonymous>)
+2025-03-20 08:19:02 -03:00:     at getStatsMessage (/projetos/auto/index.js:536:4)
+2025-03-20 08:19:02 -03:00:     at Client.<anonymous> (/projetos/auto/index.js:1040:29)
+2025-03-20 08:19:02 -03:00:     at Client.emit (node:events:517:28)
+2025-03-20 08:19:02 -03:00:     at /projetos/auto/node_modules/whatsapp-web.js/src/Client.js:439:22
+2025-03-20 08:19:02 -03:00:     at CDPPage._CDPPage_onBindingCalled (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:2462:30)
+2025-03-20 08:19:02 -03:00:     at /projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:160:100
+2025-03-20 08:19:02 -03:00:     at /projetos/auto/node_modules/puppeteer-core/lib/cjs/third_party/mitt/index.js:3:232
+2025-03-20 08:19:02 -03:00:     at Array.map (<anonymous>)
+2025-03-20 08:19:02 -03:00:     at Object.emit (/projetos/auto/node_modules/puppeteer-core/lib/cjs/third_party/mitt/index.js:3:216)
+2025-03-20 08:19:02 -03:00:     at CDPSessionImpl.emit (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/EventEmitter.js:87:22)
+2025-03-20 08:19:02 -03:00:     at CDPSessionImpl._onMessage (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:350:18)
+2025-03-20 08:19:02 -03:00:     at Connection.onMessage (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:156:25)
+2025-03-20 08:19:02 -03:00:     at WebSocket.<anonymous> (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/NodeWebSocketTransport.js:45:32)
+2025-03-20 08:19:02 -03:00:     at WebSocket.onMessage (/projetos/auto/node_modules/ws/lib/event-target.js:199:18)
+2025-03-20 08:20:04 -03:00: Erro geral ao processar a mensagem: ReferenceError: formattedNumber is not defined
+2025-03-20 08:20:04 -03:00:     at /projetos/auto/index.js:543:24
+2025-03-20 08:20:04 -03:00:     at Array.map (<anonymous>)
+2025-03-20 08:20:04 -03:00:     at getStatsMessage (/projetos/auto/index.js:536:4)
+2025-03-20 08:20:04 -03:00:     at Client.<anonymous> (/projetos/auto/index.js:1040:29)
+2025-03-20 08:20:04 -03:00:     at Client.emit (node:events:517:28)
+2025-03-20 08:20:04 -03:00:     at /projetos/auto/node_modules/whatsapp-web.js/src/Client.js:439:22
+2025-03-20 08:20:04 -03:00:     at CDPPage._CDPPage_onBindingCalled (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:2462:30)
+2025-03-20 08:20:04 -03:00:     at /projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:160:100
+2025-03-20 08:20:04 -03:00:     at /projetos/auto/node_modules/puppeteer-core/lib/cjs/third_party/mitt/index.js:3:232
+2025-03-20 08:20:04 -03:00:     at Array.map (<anonymous>)
+2025-03-20 08:20:04 -03:00:     at Object.emit (/projetos/auto/node_modules/puppeteer-core/lib/cjs/third_party/mitt/index.js:3:216)
+2025-03-20 08:20:04 -03:00:     at CDPSessionImpl.emit (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/EventEmitter.js:87:22)
+2025-03-20 08:20:04 -03:00:     at CDPSessionImpl._onMessage (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:350:18)
+2025-03-20 08:20:04 -03:00:     at Connection.onMessage (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:156:25)
+2025-03-20 08:20:04 -03:00:     at WebSocket.<anonymous> (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/NodeWebSocketTransport.js:45:32)
+2025-03-20 08:20:04 -03:00:     at WebSocket.onMessage (/projetos/auto/node_modules/ws/lib/event-target.js:199:18)
