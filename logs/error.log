@@ -94,3 +94,216 @@
 2025-03-20 08:20:04 -03:00:     at Connection.onMessage (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:156:25)
 2025-03-20 08:20:04 -03:00:     at WebSocket.<anonymous> (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/NodeWebSocketTransport.js:45:32)
 2025-03-20 08:20:04 -03:00:     at WebSocket.onMessage (/projetos/auto/node_modules/ws/lib/event-target.js:199:18)
+2025-03-22 19:40:48 -03:00: Error: net::ERR_INTERNET_DISCONNECTED at https://web.whatsapp.com/
+2025-03-22 19:40:48 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-22 19:40:48 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-22 19:40:48 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-22 19:40:48 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-22 19:40:48 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-24 00:24:07 -03:00: Error: net::ERR_INTERNET_DISCONNECTED at https://web.whatsapp.com/
+2025-03-24 00:24:07 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-24 00:24:07 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-24 00:24:07 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-24 00:24:07 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-24 00:24:07 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-26 23:48:06 -03:00: Error: net::ERR_INTERNET_DISCONNECTED at https://web.whatsapp.com/
+2025-03-26 23:48:06 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-26 23:48:06 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-26 23:48:06 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-26 23:48:06 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-26 23:48:06 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-27 00:17:07 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-27 00:17:07 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-27 00:17:07 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-27 00:17:07 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-27 00:17:07 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-27 00:17:07 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-27 00:17:07 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-27 00:17:07 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-27 00:17:07 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1627:9)
+2025-03-27 00:17:07 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-27 00:17:07 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-27 00:17:07 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-27 00:17:07 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-27 00:17:07 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-27 00:17:07 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-27 00:17:07 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-27 00:17:07 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-27 00:17:07 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1014:7)
+2025-03-29 08:37:44 -03:00: Error: net::ERR_NAME_NOT_RESOLVED at https://web.whatsapp.com/
+2025-03-29 08:37:44 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-29 08:37:44 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-29 08:37:44 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-29 08:37:44 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-29 08:37:44 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-29 18:56:31 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-29 18:56:31 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-29 18:56:31 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-29 18:56:31 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-29 18:56:31 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-29 18:56:31 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-29 18:56:31 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-29 18:56:31 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-29 18:56:31 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1014:7)
+2025-03-29 20:10:55 -03:00: Error: net::ERR_NAME_NOT_RESOLVED at https://web.whatsapp.com/
+2025-03-29 20:10:55 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-29 20:10:55 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-29 20:10:55 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-29 20:10:55 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-29 20:10:55 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-29 21:41:26 -03:00: Error: net::ERR_INTERNET_DISCONNECTED at https://web.whatsapp.com/
+2025-03-29 21:41:26 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-29 21:41:26 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-29 21:41:26 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-29 21:41:26 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-29 21:41:26 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-29 23:26:41 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-29 23:26:41 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-29 23:26:41 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-29 23:26:41 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-29 23:26:41 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-29 23:26:41 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-29 23:26:41 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-29 23:26:41 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-29 23:26:41 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1014:7)
+2025-03-30 15:01:55 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:01:55 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:01:55 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:01:55 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:01:55 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:01:55 -03:00:   status: undefined,
+2025-03-30 15:01:55 -03:00:   headers: undefined,
+2025-03-30 15:01:55 -03:00:   error: undefined
+2025-03-30 15:01:55 -03:00: }
+2025-03-30 15:12:33 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:12:33 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:12:33 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:12:33 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:12:33 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:12:33 -03:00:   status: undefined,
+2025-03-30 15:12:33 -03:00:   headers: undefined,
+2025-03-30 15:12:33 -03:00:   error: undefined
+2025-03-30 15:12:33 -03:00: }
+2025-03-30 15:17:23 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:17:23 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:17:23 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:17:23 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:17:23 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:17:23 -03:00:   status: undefined,
+2025-03-30 15:17:23 -03:00:   headers: undefined,
+2025-03-30 15:17:23 -03:00:   error: undefined
+2025-03-30 15:17:23 -03:00: }
+2025-03-30 15:30:57 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:30:57 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:30:57 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:30:57 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:30:57 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:30:57 -03:00:   status: undefined,
+2025-03-30 15:30:57 -03:00:   headers: undefined,
+2025-03-30 15:30:57 -03:00:   error: undefined
+2025-03-30 15:30:57 -03:00: }
+2025-03-30 15:32:29 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:32:29 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:32:29 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:32:29 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:32:29 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:32:29 -03:00:   status: undefined,
+2025-03-30 15:32:29 -03:00:   headers: undefined,
+2025-03-30 15:32:29 -03:00:   error: undefined
+2025-03-30 15:32:29 -03:00: }
+2025-03-30 15:39:33 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 15:39:33 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 15:39:33 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:39:33 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 15:39:33 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 15:39:33 -03:00:   status: undefined,
+2025-03-30 15:39:33 -03:00:   headers: undefined,
+2025-03-30 15:39:33 -03:00:   error: undefined
+2025-03-30 15:39:33 -03:00: }
+2025-03-30 15:56:08 -03:00: Error: net::ERR_INTERNET_DISCONNECTED at https://web.whatsapp.com/
+2025-03-30 15:56:08 -03:00:     at navigate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:235:23)
+2025-03-30 15:56:08 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 15:56:08 -03:00:     at async Frame.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:205:21)
+2025-03-30 15:56:08 -03:00:     at async CDPPage.goto (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:1083:16)
+2025-03-30 15:56:08 -03:00:     at async Client.initialize (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:336:9)
+2025-03-30 17:39:15 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 17:39:15 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 17:39:15 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 17:39:15 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 17:39:15 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 17:39:15 -03:00:   status: undefined,
+2025-03-30 17:39:15 -03:00:   headers: undefined,
+2025-03-30 17:39:15 -03:00:   error: undefined
+2025-03-30 17:39:15 -03:00: }
+2025-03-30 17:39:30 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 17:39:30 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 17:39:30 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 17:39:30 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 17:39:30 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 17:39:30 -03:00:   status: undefined,
+2025-03-30 17:39:30 -03:00:   headers: undefined,
+2025-03-30 17:39:30 -03:00:   error: undefined
+2025-03-30 17:39:30 -03:00: }
+2025-03-30 17:42:49 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 17:42:49 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 17:42:49 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 17:42:49 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 17:42:49 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 17:42:49 -03:00:   status: undefined,
+2025-03-30 17:42:49 -03:00:   headers: undefined,
+2025-03-30 17:42:49 -03:00:   error: undefined
+2025-03-30 17:42:49 -03:00: }
+2025-03-30 18:01:36 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 18:01:36 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 18:01:36 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:36 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 18:01:36 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 18:01:36 -03:00:   status: undefined,
+2025-03-30 18:01:36 -03:00:   headers: undefined,
+2025-03-30 18:01:36 -03:00:   error: undefined
+2025-03-30 18:01:36 -03:00: }
+2025-03-30 18:01:36 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-30 18:01:36 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-30 18:01:36 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-30 18:01:36 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-30 18:01:36 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-30 18:01:36 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:36 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-30 18:01:36 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-30 18:01:36 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1627:9)
+2025-03-30 18:01:36 -03:00: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-30 18:01:36 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-30 18:01:36 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-30 18:01:36 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-30 18:01:36 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-30 18:01:36 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:36 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-30 18:01:36 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-30 18:01:36 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1638:5)
+2025-03-30 18:01:51 -03:00: Erro ao analisar mensagem com Groq: APIConnectionTimeoutError: Request timed out.
+2025-03-30 18:01:51 -03:00:     at Groq.makeRequest (/projetos/auto/node_modules/groq-sdk/core.js:290:23)
+2025-03-30 18:01:51 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:51 -03:00:     at async analyzeMessage (/projetos/auto/index.js:434:24)
+2025-03-30 18:01:51 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1486:24) {
+2025-03-30 18:01:51 -03:00:   status: undefined,
+2025-03-30 18:01:51 -03:00:   headers: undefined,
+2025-03-30 18:01:51 -03:00:   error: undefined
+2025-03-30 18:01:51 -03:00: }
+2025-03-30 18:01:51 -03:00: Erro geral ao processar a mensagem: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-30 18:01:51 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-30 18:01:51 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-30 18:01:51 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-30 18:01:51 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-30 18:01:51 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:51 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-30 18:01:51 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-30 18:01:51 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1627:9)
+2025-03-30 18:01:51 -03:00: Error: Evaluation failed: Error: Could not get the quoted message.
+2025-03-30 18:01:51 -03:00:     at new Error (<anonymous>:6:31)
+2025-03-30 18:01:51 -03:00:     at window.WWebJS.sendMessage (pptr://__puppeteer_evaluation_script__:48:23)
+2025-03-30 18:01:51 -03:00:     at async pptr://__puppeteer_evaluation_script__:10:25
+2025-03-30 18:01:51 -03:00:     at ExecutionContext._ExecutionContext_evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:229:15)
+2025-03-30 18:01:51 -03:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-30 18:01:51 -03:00:     at async ExecutionContext.evaluate (/projetos/auto/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:107:16)
+2025-03-30 18:01:51 -03:00:     at async Client.sendMessage (/projetos/auto/node_modules/whatsapp-web.js/src/Client.js:950:28)
+2025-03-30 18:01:51 -03:00:     at async Client.<anonymous> (/projetos/auto/index.js:1638:5)
